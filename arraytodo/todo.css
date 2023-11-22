@@ -1,0 +1,59 @@
+
+
+body{
+    background-image: url("https://t3.ftcdn.net/jpg/05/13/59/72/360_F_513597277_YYqrogAmgRR9ohwTUnOM784zS9eYUcSk.jpg");
+background-repeat: no-repeat;
+background-size: 1500px 1500px;
+}
+
+
+
+
+.text{
+    color: rgb(139, 130, 0);
+   text-transform: uppercase;
+   font-family: Roboto; 
+        font-style: italic; 
+        font-weight:bold; 
+    text-shadow: 2px 2px solid rgb(61, 92, 7)3;
+    
+}
+.button{
+    border-radius: 20px;
+    color: rgb(6, 80, 49);
+    font-size: large;
+    width: 90px;
+    height: 50px;
+   background-color: rgba(90, 46, 19, 0.488);
+    position: relative;
+    left: 20px;
+    border: 2px 2px solid goldenrod;
+}
+.input{
+    width: 270px;
+    height: 30px;
+    font-size: larger;
+    border: 2px 2px solid blue;
+}
+.completed {
+    text-decoration: line-through;
+    color: gray; 
+  }
+  .delete{
+    border-radius: 20px;
+    color: rgb(7, 105, 69);
+    width: 90px;
+    height: 50px;
+    background-color: rgba(60, 2, 17, 0.875);
+    position: relative;
+    left: 30px;
+  }
+  .undo{
+    border-radius: 20px;
+    color: rgb(234, 255, 0)0, 255, 85;
+    width: 90px;
+    height: 50px;
+    background-color: rgba(13, 59, 7, 0.584);
+    position: relative;
+    left: 50px;
+  }
